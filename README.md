@@ -11,3 +11,6 @@
 * Gestión ramas
 * Restaurar cambios
 * Resolver conflictos
+* Trabajo colaborativo
+* Test
+* Fin git
