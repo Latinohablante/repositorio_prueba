@@ -10,3 +10,4 @@
 * Combinar ramas
 * Gestión ramas
 * Restaurar cambios
+* Resolver conflictos
